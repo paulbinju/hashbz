@@ -1,2 +1,4 @@
 # hashbz
-Updated to live and off local
+Updated to live and off local 
+added controller
+
