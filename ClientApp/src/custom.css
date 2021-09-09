@@ -8,13 +8,18 @@ color:#f77082;
   }
 body{
 
-  font-family: 'Roboto', sans-serif;
-  font-size: 22px;
+  font-family: 'Libre Baskerville', serif;
+  font-weight: ;
+  font-size: 20px;
   color: #000000;
 }
+p{
+  text-align: justify;
+}
 h1,h2,h3,h4{
-
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Libre Baskerville', serif;
+  font-weight: 700;
+  /* font-family: 'Poppins', sans-serif; */
 }
 h1{
 font-size: 40px;
@@ -26,14 +31,28 @@ font-size: 40px;
 }
  .menu{
    padding: 5px;
-   font-size: 15px;
+   font-size: 12px;
+   font-weight: normal;
 
  }
+.menu a{
+  color: white;
+}
+
 a{
-   color:#f77082;
+  color:#f77082;
+   
+   font-family: 'Poppins', sans-serif;
+   font-weight: 300;
+
  }
  .footer{
    font-size: 13px;
+   font-family: 'Poppins', sans-serif;
+   font-weight: 300;
  }
-
+.band{
+  background-color: #000000;
+  height: 28px;
+}
  
